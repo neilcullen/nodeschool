@@ -1,1 +1,2 @@
 Testing out nodeschool
+foo
